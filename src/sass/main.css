@@ -509,7 +509,7 @@
 
 @media screen and (min-width: 480px) {
   .modal-map {
-    width: 450px;
+    width: 550px;
   }
 }
 
@@ -807,6 +807,7 @@
   border: 2px solid black;
   border-radius: 2px;
   margin-right: 10px;
+  cursor: pointer;
 }
 
 @media screen and (min-width: 768px) {
